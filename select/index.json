@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Legacy",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-18T12:07:10.411793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Legacy",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/01_Legacy_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aureum Legacy",
+      "artist": "Ancient Bards",
+      "has_synced": true,
+      "path": "select/02_Aureum_Legacy_Ancient_Bards.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Legacy of Kings - Live 2018",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/03_Legacy_of_Kings_-_Live_2018_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Legacy of Kings (Live Medley 2018)",
+      "artist": "HammerFall",
+      "has_synced": false,
+      "path": "select/04_Legacy_of_Kings_(Live_Medley_2018)_HammerFall.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Legacy of Kings - Live",
+      "artist": "Hammerfall",
+      "has_synced": false,
+      "path": "select/05_Legacy_of_Kings_-_Live_Hammerfall.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Legacy of Kings - Remastered 2018",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/06_Legacy_of_Kings_-_Remastered_2018_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Legacy",
+      "artist": "Cocoon",
+      "has_synced": false,
+      "path": "select/07_Legacy_Cocoon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Legacy",
+      "artist": "The Gone Jackals",
+      "has_synced": true,
+      "path": "select/08_Legacy_The_Gone_Jackals.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Legacy",
+      "artist": "Stryper",
+      "has_synced": false,
+      "path": "select/09_Legacy_Stryper.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Only When I Lose Myself - Subsonic Legacy Mix",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/10_Only_When_I_Lose_Myself_-_Subsonic_Legacy_Mix_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Frozen Will/Legacy",
+      "artist": "Armored Saint",
+      "has_synced": true,
+      "path": "select/11_Frozen_Will_Legacy_Armored_Saint.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Legacy (with PJ)",
+      "artist": "J. Cole, PJ",
+      "has_synced": false,
+      "path": "select/pl_01_Legacy_(with_PJ)_J._Cole,_PJ.txt"
+    }
+  ]
+}
